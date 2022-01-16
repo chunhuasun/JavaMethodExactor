@@ -21,6 +21,10 @@ java -jar JavaMethodExactor.jar /home/javaproject ./ouput.txt
 
 
 ## 使用教程：后面的两个参数分别是输入的项目路径、输出到的文件的路径
+```
 java -jar JavaMethodExactor.jar /home/javaproject ./ouput.txt
+```
 ## 输出格式
+```
 类名@方法名@参数名@返回值@方法体
+```
